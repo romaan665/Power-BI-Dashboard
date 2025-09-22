@@ -20,4 +20,4 @@ This is a **Power BI dashboard** visualizing Superstore sales data. It helps ana
 - Dataset is for visualization purposes only.
 
 Dashboard Preview:
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](dashboard.png)
