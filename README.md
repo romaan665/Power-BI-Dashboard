@@ -18,3 +18,6 @@ This is a **Power BI dashboard** visualizing Superstore sales data. It helps ana
 
 - The dashboard depends on the CSV file. Keep it in the same relative path (`data/`) when opening the `.pbix`.
 - Dataset is for visualization purposes only.
+
+Dashboard Preview:
+![Dashboard Preview](images/dashboard.png)
