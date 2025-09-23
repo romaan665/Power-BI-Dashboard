@@ -13,8 +13,8 @@ It helps analyze **sales trends, product performance, and regional performance**
 
 ## Files
 
-- `Dashboard.pbix` – Power BI dashboard file  
-- `data/superstore_sales.csv` – Dataset used in the dashboard                                                                                                                                                        - `docs/explanation.pdf` – Detailed explanation of the dashboard (objective, steps, charts, metrics, conclusion).
+- `DASHBOARD.pbix` – Power BI dashboard file  
+- `SuperStore_Sales_Dataset.csv` – Dataset used in the dashboard                                                                                                                                                     - `Superstore Sales Dashboard.docx` – Detailed explanation of the dashboard (objective, steps, charts, metrics, conclusion).
 
 
 ---
@@ -26,6 +26,6 @@ It helps analyze **sales trends, product performance, and regional performance**
 3. Open `Dashboard.pbix` in **Power BI Desktop**.  
 4. Refresh the data to view the visualizations.  
 
-**Tip:** Click on `Dashboard.pbix` in the file list to download it.
+**Tip:** Click on `DASHBOARD.pbix` in the file list to download it.
 
 ---
