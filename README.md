@@ -8,6 +8,7 @@ It helps analyze **sales trends, product performance, and regional performance**
 ## Dashboard Preview
 
 ![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard_detail.png)
 
 ---
 
